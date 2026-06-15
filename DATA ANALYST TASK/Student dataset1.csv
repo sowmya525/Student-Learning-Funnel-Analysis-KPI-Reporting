@@ -1,0 +1,501 @@
+Student ID,Student Name,College Name,Department,Registration Date,Active Status,Assessment Score,Assessment Completed Status,Course Completion Status,Placement Readiness Status
+S0001,Student_1,VIT,IT,07-09-2025,Yes,93,Completed,Completed,Ready
+S0002,Student_2,XYZ Institute,AI&DS,30-11-2025,Yes,45,Not Completed,Not Completed,Not Ready
+S0003,Student_3,ABC College,AI&DS,13-02-2025,Yes,70,Completed,Completed,Not Ready
+S0004,Student_4,JNTU,EEE,28-12-2025,Yes,69,Completed,Completed,Not Ready
+S0005,Student_5,SVEC,AI&ML,22-10-2025,Yes,87,Completed,Completed,Ready
+S0006,Student_6,VIT,ECE,09-11-2025,Yes,78,Completed,Not Completed,Not Ready
+S0007,Student_7,ABC College,Civil,21-12-2025,No,70,Completed,Not Completed,Not Ready
+S0008,Student_8,JNTU,IT,11-06-2025,Yes,72,Completed,Completed,Not Ready
+S0009,Student_9,VIT,CSE,05-02-2025,Yes,55,Completed,Not Completed,Not Ready
+S0010,Student_10,VIT,ECE,21-09-2025,Yes,64,Completed,Not Completed,Not Ready
+S0011,Student_11,SVEC,AI&DS,31-08-2025,Yes,53,Completed,Not Completed,Not Ready
+S0012,Student_12,VIT,AI&ML,09-03-2025,Yes,72,Completed,Completed,Not Ready
+S0013,Student_13,ABC College,IT,22-06-2025,Yes,49,Not Completed,Not Completed,Not Ready
+S0014,Student_14,JNTU,Civil,12-08-2025,Yes,92,Completed,Completed,Not Ready
+S0015,Student_15,SVEC,ME,07-08-2025,Yes,62,Completed,Not Completed,Not Ready
+S0016,Student_16,GITAM,AI&DS,27-05-2025,No,65,Completed,Not Completed,Not Ready
+S0017,Student_17,GITAM,Civil,10-06-2025,Yes,77,Completed,Completed,Not Ready
+S0018,Student_18,SVEC,ME,11-05-2025,Yes,57,Completed,Not Completed,Not Ready
+S0019,Student_19,JNTU,CSE,29-05-2025,Yes,97,Completed,Completed,Ready
+S0020,Student_20,GITAM,AI&DS,03-02-2025,Yes,80,Completed,Completed,Ready
+S0021,Student_21,SVEC,AI&ML,17-12-2025,Yes,75,Completed,Completed,Ready
+S0022,Student_22,XYZ Institute,Civil,18-01-2025,No,54,Completed,Not Completed,Not Ready
+S0023,Student_23,VIT,IT,01-08-2025,Yes,75,Completed,Completed,Ready
+S0024,Student_24,JNTU,CSE,20-12-2025,Yes,92,Completed,Completed,Ready
+S0025,Student_25,GITAM,AI&DS,21-01-2025,Yes,46,Not Completed,Not Completed,Not Ready
+S0026,Student_26,JNTU,CSE,28-11-2025,No,51,Completed,Not Completed,Not Ready
+S0027,Student_27,ABC College,IT,23-09-2025,Yes,68,Completed,Completed,Not Ready
+S0028,Student_28,JNTU,EEE,22-01-2025,Yes,76,Completed,Completed,Ready
+S0029,Student_29,SVEC,AI&DS,16-10-2025,Yes,94,Completed,Completed,Not Ready
+S0030,Student_30,SVEC,AI&DS,29-09-2025,Yes,88,Completed,Completed,Ready
+S0031,Student_31,VIT,CSE,13-11-2025,Yes,78,Completed,Completed,Ready
+S0032,Student_32,XYZ Institute,ECE,12-03-2025,Yes,55,Completed,Not Completed,Not Ready
+S0033,Student_33,ABC College,ECE,25-05-2025,No,63,Completed,Not Completed,Not Ready
+S0034,Student_34,VIT,Civil,27-12-2025,Yes,63,Completed,Not Completed,Not Ready
+S0035,Student_35,ABC College,AI&ML,21-03-2025,No,69,Completed,Not Completed,Not Ready
+S0036,Student_36,ABC College,Civil,13-12-2025,No,73,Completed,Not Completed,Not Ready
+S0037,Student_37,JNTU,IT,30-07-2025,Yes,76,Completed,Completed,Ready
+S0038,Student_38,JNTU,AI&ML,05-02-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0039,Student_39,ABC College,Civil,17-07-2025,Yes,96,Completed,Completed,Ready
+S0040,Student_40,XYZ Institute,IT,19-02-2025,No,78,Completed,Not Completed,Not Ready
+S0041,Student_41,XYZ Institute,EEE,14-08-2025,Yes,66,Completed,Not Completed,Not Ready
+S0042,Student_42,GITAM,ECE,20-04-2025,Yes,94,Completed,Not Completed,Not Ready
+S0043,Student_43,JNTU,Civil,28-11-2025,Yes,70,Completed,Completed,Not Ready
+S0044,Student_44,GITAM,EEE,15-02-2025,Yes,96,Completed,Completed,Ready
+S0045,Student_45,ABC College,ECE,26-09-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0046,Student_46,ABC College,AI&DS,13-09-2025,Yes,89,Completed,Not Completed,Not Ready
+S0047,Student_47,VIT,AI&ML,11-09-2025,No,88,Completed,Not Completed,Not Ready
+S0048,Student_48,VIT,Civil,25-10-2025,Yes,94,Completed,Not Completed,Not Ready
+S0049,Student_49,GITAM,CSE,05-04-2025,Yes,58,Completed,Not Completed,Not Ready
+S0050,Student_50,VIT,ECE,21-12-2025,Yes,75,Completed,Completed,Not Ready
+S0051,Student_51,ABC College,IT,02-02-2025,Yes,46,Not Completed,Not Completed,Not Ready
+S0052,Student_52,SVEC,AI&ML,10-11-2025,Yes,74,Completed,Completed,Not Ready
+S0053,Student_53,XYZ Institute,Civil,28-03-2025,Yes,55,Completed,Not Completed,Not Ready
+S0054,Student_54,GITAM,CSE,28-03-2025,No,88,Completed,Not Completed,Not Ready
+S0055,Student_55,VIT,AI&DS,06-01-2025,Yes,47,Not Completed,Not Completed,Not Ready
+S0056,Student_56,VIT,EEE,25-02-2025,Yes,51,Completed,Not Completed,Not Ready
+S0057,Student_57,ABC College,AI&DS,21-04-2025,No,61,Completed,Not Completed,Not Ready
+S0058,Student_58,GITAM,AI&DS,22-04-2025,Yes,51,Completed,Not Completed,Not Ready
+S0059,Student_59,JNTU,AI&ML,01-07-2025,Yes,55,Completed,Not Completed,Not Ready
+S0060,Student_60,GITAM,IT,07-04-2025,Yes,77,Completed,Completed,Ready
+S0061,Student_61,VIT,AI&DS,08-09-2025,Yes,88,Completed,Completed,Ready
+S0062,Student_62,GITAM,AI&ML,20-02-2025,Yes,53,Completed,Not Completed,Not Ready
+S0063,Student_63,GITAM,IT,30-08-2025,Yes,56,Completed,Not Completed,Not Ready
+S0064,Student_64,SVEC,AI&ML,23-11-2025,Yes,65,Completed,Completed,Not Ready
+S0065,Student_65,VIT,IT,06-08-2025,Yes,50,Completed,Not Completed,Not Ready
+S0066,Student_66,VIT,ECE,12-03-2025,Yes,80,Completed,Completed,Ready
+S0067,Student_67,SVEC,Civil,19-04-2025,Yes,56,Completed,Not Completed,Not Ready
+S0068,Student_68,XYZ Institute,EEE,08-11-2025,Yes,69,Completed,Completed,Not Ready
+S0069,Student_69,JNTU,Civil,16-11-2025,Yes,61,Completed,Not Completed,Not Ready
+S0070,Student_70,XYZ Institute,AI&DS,26-11-2025,Yes,52,Completed,Not Completed,Not Ready
+S0071,Student_71,VIT,ECE,22-08-2025,No,49,Not Completed,Not Completed,Not Ready
+S0072,Student_72,JNTU,EEE,04-11-2025,Yes,61,Completed,Not Completed,Not Ready
+S0073,Student_73,GITAM,Civil,09-11-2025,Yes,55,Completed,Not Completed,Not Ready
+S0074,Student_74,XYZ Institute,AI&ML,13-11-2025,Yes,65,Completed,Not Completed,Not Ready
+S0075,Student_75,SVEC,IT,26-01-2025,Yes,86,Completed,Completed,Ready
+S0076,Student_76,JNTU,CSE,26-03-2025,Yes,73,Completed,Completed,Not Ready
+S0077,Student_77,XYZ Institute,EEE,01-10-2025,Yes,73,Completed,Completed,Not Ready
+S0078,Student_78,SVEC,ECE,21-11-2025,Yes,54,Completed,Not Completed,Not Ready
+S0079,Student_79,GITAM,IT,17-02-2025,No,83,Completed,Not Completed,Not Ready
+S0080,Student_80,SVEC,AI&ML,17-10-2025,Yes,90,Completed,Completed,Ready
+S0081,Student_81,XYZ Institute,ECE,16-11-2025,Yes,86,Completed,Completed,Ready
+S0082,Student_82,ABC College,ME,05-05-2025,Yes,67,Completed,Completed,Not Ready
+S0083,Student_83,GITAM,Civil,07-02-2025,Yes,65,Completed,Completed,Not Ready
+S0084,Student_84,JNTU,ME,12-01-2025,No,89,Completed,Not Completed,Not Ready
+S0085,Student_85,GITAM,ME,17-10-2025,Yes,52,Completed,Not Completed,Not Ready
+S0086,Student_86,VIT,AI&ML,16-02-2025,Yes,52,Completed,Not Completed,Not Ready
+S0087,Student_87,VIT,AI&DS,17-05-2025,Yes,94,Completed,Not Completed,Not Ready
+S0088,Student_88,JNTU,AI&ML,09-02-2025,Yes,51,Completed,Not Completed,Not Ready
+S0089,Student_89,SVEC,Civil,13-12-2025,Yes,69,Completed,Completed,Not Ready
+S0090,Student_90,GITAM,AI&ML,02-10-2025,Yes,56,Completed,Not Completed,Not Ready
+S0091,Student_91,ABC College,CSE,05-04-2025,Yes,70,Completed,Completed,Not Ready
+S0092,Student_92,GITAM,EEE,13-06-2025,Yes,83,Completed,Not Completed,Not Ready
+S0093,Student_93,VIT,AI&ML,16-04-2025,No,92,Completed,Not Completed,Not Ready
+S0094,Student_94,SVEC,ECE,23-01-2025,Yes,66,Completed,Not Completed,Not Ready
+S0095,Student_95,GITAM,CSE,27-12-2025,Yes,72,Completed,Completed,Not Ready
+S0096,Student_96,SVEC,AI&DS,10-08-2025,Yes,71,Completed,Completed,Not Ready
+S0097,Student_97,VIT,EEE,06-04-2025,Yes,73,Completed,Completed,Not Ready
+S0098,Student_98,JNTU,IT,25-06-2025,Yes,73,Completed,Completed,Not Ready
+S0099,Student_99,XYZ Institute,AI&DS,20-05-2025,Yes,54,Completed,Not Completed,Not Ready
+S0100,Student_100,GITAM,CSE,18-07-2025,No,97,Completed,Not Completed,Not Ready
+S0101,Student_101,XYZ Institute,ECE,05-09-2025,Yes,97,Completed,Completed,Ready
+S0102,Student_102,SVEC,AI&ML,17-10-2025,Yes,47,Not Completed,Not Completed,Not Ready
+S0103,Student_103,GITAM,Civil,26-12-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0104,Student_104,VIT,ME,09-11-2025,Yes,92,Completed,Completed,Ready
+S0105,Student_105,VIT,IT,18-04-2025,Yes,90,Completed,Completed,Ready
+S0106,Student_106,XYZ Institute,ECE,30-01-2025,Yes,85,Completed,Completed,Ready
+S0107,Student_107,VIT,EEE,05-11-2025,Yes,95,Completed,Completed,Not Ready
+S0108,Student_108,XYZ Institute,AI&ML,20-05-2025,Yes,76,Completed,Completed,Ready
+S0109,Student_109,GITAM,IT,20-10-2025,No,79,Completed,Not Completed,Not Ready
+S0110,Student_110,XYZ Institute,ME,24-03-2025,Yes,67,Completed,Completed,Not Ready
+S0111,Student_111,JNTU,EEE,15-06-2025,Yes,81,Completed,Completed,Ready
+S0112,Student_112,ABC College,CSE,26-09-2025,Yes,84,Completed,Completed,Ready
+S0113,Student_113,GITAM,ME,21-01-2025,Yes,83,Completed,Completed,Not Ready
+S0114,Student_114,VIT,Civil,27-05-2025,No,75,Completed,Not Completed,Not Ready
+S0115,Student_115,SVEC,CSE,30-11-2025,Yes,69,Completed,Completed,Not Ready
+S0116,Student_116,JNTU,CSE,16-10-2025,Yes,77,Completed,Completed,Ready
+S0117,Student_117,SVEC,ECE,29-09-2025,Yes,69,Completed,Completed,Not Ready
+S0118,Student_118,ABC College,Civil,05-06-2025,Yes,88,Completed,Completed,Ready
+S0119,Student_119,GITAM,IT,27-08-2025,Yes,79,Completed,Completed,Ready
+S0120,Student_120,XYZ Institute,IT,03-12-2025,Yes,65,Completed,Completed,Not Ready
+S0121,Student_121,VIT,Civil,23-01-2025,Yes,63,Completed,Not Completed,Not Ready
+S0122,Student_122,JNTU,ME,18-05-2025,Yes,90,Completed,Completed,Ready
+S0123,Student_123,VIT,CSE,15-09-2025,No,66,Completed,Not Completed,Not Ready
+S0124,Student_124,XYZ Institute,Civil,30-06-2025,Yes,75,Completed,Completed,Ready
+S0125,Student_125,GITAM,ME,10-02-2025,Yes,54,Completed,Not Completed,Not Ready
+S0126,Student_126,SVEC,EEE,01-04-2025,No,68,Completed,Not Completed,Not Ready
+S0127,Student_127,SVEC,EEE,28-04-2025,Yes,69,Completed,Completed,Not Ready
+S0128,Student_128,JNTU,AI&ML,13-04-2025,Yes,93,Completed,Completed,Ready
+S0129,Student_129,XYZ Institute,ME,08-12-2025,Yes,82,Completed,Completed,Ready
+S0130,Student_130,SVEC,ME,28-01-2025,Yes,55,Completed,Not Completed,Not Ready
+S0131,Student_131,XYZ Institute,AI&DS,20-06-2025,Yes,89,Completed,Completed,Ready
+S0132,Student_132,JNTU,EEE,29-08-2025,Yes,74,Completed,Completed,Not Ready
+S0133,Student_133,SVEC,IT,20-10-2025,Yes,86,Completed,Completed,Ready
+S0134,Student_134,GITAM,ME,31-03-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0135,Student_135,SVEC,ECE,13-05-2025,Yes,79,Completed,Completed,Ready
+S0136,Student_136,XYZ Institute,ME,11-03-2025,Yes,73,Completed,Completed,Not Ready
+S0137,Student_137,ABC College,AI&ML,07-05-2025,Yes,60,Completed,Not Completed,Not Ready
+S0138,Student_138,XYZ Institute,EEE,25-05-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0139,Student_139,VIT,AI&DS,21-05-2025,Yes,83,Completed,Not Completed,Not Ready
+S0140,Student_140,ABC College,EEE,17-10-2025,Yes,86,Completed,Completed,Ready
+S0141,Student_141,SVEC,Civil,20-10-2025,Yes,86,Completed,Completed,Ready
+S0142,Student_142,VIT,ME,27-01-2025,Yes,71,Completed,Completed,Not Ready
+S0143,Student_143,XYZ Institute,IT,01-07-2025,Yes,52,Completed,Not Completed,Not Ready
+S0144,Student_144,GITAM,ECE,11-12-2025,No,60,Completed,Not Completed,Not Ready
+S0145,Student_145,XYZ Institute,CSE,05-01-2025,Yes,54,Completed,Not Completed,Not Ready
+S0146,Student_146,VIT,ME,06-11-2025,Yes,45,Not Completed,Not Completed,Not Ready
+S0147,Student_147,ABC College,ECE,09-01-2025,Yes,59,Completed,Not Completed,Not Ready
+S0148,Student_148,SVEC,ECE,14-06-2025,Yes,78,Completed,Completed,Ready
+S0149,Student_149,JNTU,ECE,11-08-2025,No,94,Completed,Not Completed,Not Ready
+S0150,Student_150,SVEC,IT,01-05-2025,Yes,47,Not Completed,Not Completed,Not Ready
+S0151,Student_151,VIT,Civil,11-05-2025,Yes,86,Completed,Completed,Ready
+S0152,Student_152,ABC College,CSE,11-04-2025,Yes,62,Completed,Not Completed,Not Ready
+S0153,Student_153,VIT,AI&DS,06-09-2025,No,94,Completed,Not Completed,Not Ready
+S0154,Student_154,GITAM,Civil,06-10-2025,Yes,80,Completed,Completed,Ready
+S0155,Student_155,VIT,Civil,08-10-2025,Yes,63,Completed,Not Completed,Not Ready
+S0156,Student_156,XYZ Institute,CSE,25-05-2025,Yes,84,Completed,Completed,Ready
+S0157,Student_157,VIT,AI&DS,03-02-2025,Yes,63,Completed,Not Completed,Not Ready
+S0158,Student_158,GITAM,ECE,22-07-2025,Yes,54,Completed,Not Completed,Not Ready
+S0159,Student_159,VIT,ME,22-07-2025,Yes,95,Completed,Completed,Ready
+S0160,Student_160,GITAM,AI&DS,09-03-2025,Yes,66,Completed,Completed,Not Ready
+S0161,Student_161,VIT,ECE,29-01-2025,Yes,52,Completed,Not Completed,Not Ready
+S0162,Student_162,ABC College,IT,17-10-2025,Yes,56,Completed,Not Completed,Not Ready
+S0163,Student_163,JNTU,AI&ML,03-10-2025,Yes,59,Completed,Not Completed,Not Ready
+S0164,Student_164,GITAM,ECE,25-04-2025,Yes,89,Completed,Completed,Not Ready
+S0165,Student_165,SVEC,Civil,25-02-2025,Yes,90,Completed,Completed,Ready
+S0166,Student_166,JNTU,Civil,29-11-2025,Yes,61,Completed,Not Completed,Not Ready
+S0167,Student_167,GITAM,ME,15-09-2025,Yes,91,Completed,Completed,Ready
+S0168,Student_168,XYZ Institute,IT,04-03-2025,Yes,65,Completed,Completed,Not Ready
+S0169,Student_169,ABC College,ME,14-02-2025,No,46,Not Completed,Not Completed,Not Ready
+S0170,Student_170,SVEC,IT,25-03-2025,Yes,56,Completed,Not Completed,Not Ready
+S0171,Student_171,GITAM,EEE,11-11-2025,No,70,Completed,Not Completed,Not Ready
+S0172,Student_172,GITAM,ME,20-05-2025,Yes,60,Completed,Not Completed,Not Ready
+S0173,Student_173,SVEC,CSE,01-11-2025,Yes,56,Completed,Not Completed,Not Ready
+S0174,Student_174,XYZ Institute,ECE,15-09-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0175,Student_175,GITAM,ECE,11-05-2025,No,84,Completed,Not Completed,Not Ready
+S0176,Student_176,SVEC,EEE,29-01-2025,Yes,75,Completed,Not Completed,Not Ready
+S0177,Student_177,GITAM,CSE,09-11-2025,Yes,92,Completed,Completed,Not Ready
+S0178,Student_178,VIT,Civil,13-06-2025,No,91,Completed,Not Completed,Not Ready
+S0179,Student_179,ABC College,CSE,28-06-2025,Yes,73,Completed,Completed,Not Ready
+S0180,Student_180,JNTU,CSE,20-05-2025,Yes,59,Completed,Not Completed,Not Ready
+S0181,Student_181,GITAM,ME,24-12-2025,No,69,Completed,Not Completed,Not Ready
+S0182,Student_182,VIT,EEE,28-05-2025,Yes,47,Not Completed,Not Completed,Not Ready
+S0183,Student_183,ABC College,ECE,06-03-2025,Yes,49,Not Completed,Not Completed,Not Ready
+S0184,Student_184,XYZ Institute,AI&ML,28-07-2025,Yes,76,Completed,Completed,Ready
+S0185,Student_185,JNTU,AI&DS,06-10-2025,Yes,76,Completed,Completed,Not Ready
+S0186,Student_186,GITAM,Civil,10-10-2025,Yes,71,Completed,Completed,Not Ready
+S0187,Student_187,VIT,AI&DS,31-07-2025,Yes,52,Completed,Not Completed,Not Ready
+S0188,Student_188,VIT,IT,26-04-2025,Yes,66,Completed,Completed,Not Ready
+S0189,Student_189,JNTU,Civil,30-05-2025,Yes,82,Completed,Not Completed,Not Ready
+S0190,Student_190,JNTU,AI&DS,04-09-2025,Yes,94,Completed,Completed,Not Ready
+S0191,Student_191,SVEC,AI&DS,08-03-2025,Yes,94,Completed,Completed,Not Ready
+S0192,Student_192,GITAM,ME,01-07-2025,Yes,94,Completed,Completed,Ready
+S0193,Student_193,VIT,Civil,02-08-2025,Yes,85,Completed,Not Completed,Not Ready
+S0194,Student_194,VIT,EEE,03-08-2025,Yes,98,Completed,Not Completed,Not Ready
+S0195,Student_195,GITAM,AI&DS,06-04-2025,Yes,61,Completed,Not Completed,Not Ready
+S0196,Student_196,XYZ Institute,CSE,26-06-2025,Yes,92,Completed,Completed,Ready
+S0197,Student_197,XYZ Institute,Civil,29-06-2025,Yes,53,Completed,Not Completed,Not Ready
+S0198,Student_198,XYZ Institute,EEE,21-12-2025,Yes,47,Not Completed,Not Completed,Not Ready
+S0199,Student_199,VIT,ECE,11-08-2025,Yes,70,Completed,Completed,Not Ready
+S0200,Student_200,JNTU,EEE,20-05-2025,Yes,46,Not Completed,Not Completed,Not Ready
+S0201,Student_201,JNTU,AI&DS,09-10-2025,Yes,58,Completed,Not Completed,Not Ready
+S0202,Student_202,GITAM,AI&DS,12-11-2025,No,66,Completed,Not Completed,Not Ready
+S0203,Student_203,SVEC,AI&ML,23-05-2025,Yes,61,Completed,Not Completed,Not Ready
+S0204,Student_204,GITAM,EEE,13-06-2025,Yes,52,Completed,Not Completed,Not Ready
+S0205,Student_205,XYZ Institute,Civil,18-10-2025,Yes,95,Completed,Completed,Ready
+S0206,Student_206,VIT,ECE,06-05-2025,Yes,97,Completed,Not Completed,Not Ready
+S0207,Student_207,ABC College,AI&ML,24-12-2025,Yes,50,Completed,Not Completed,Not Ready
+S0208,Student_208,JNTU,EEE,18-01-2025,Yes,95,Completed,Completed,Ready
+S0209,Student_209,VIT,CSE,29-06-2025,Yes,75,Completed,Completed,Ready
+S0210,Student_210,VIT,IT,14-08-2025,Yes,98,Completed,Completed,Ready
+S0211,Student_211,SVEC,AI&DS,14-09-2025,No,93,Completed,Not Completed,Not Ready
+S0212,Student_212,GITAM,EEE,20-03-2025,No,69,Completed,Not Completed,Not Ready
+S0213,Student_213,GITAM,AI&ML,03-09-2025,No,65,Completed,Not Completed,Not Ready
+S0214,Student_214,SVEC,ME,01-10-2025,Yes,65,Completed,Completed,Not Ready
+S0215,Student_215,GITAM,ME,19-03-2025,Yes,65,Completed,Not Completed,Not Ready
+S0216,Student_216,ABC College,CSE,31-10-2025,Yes,85,Completed,Completed,Ready
+S0217,Student_217,SVEC,ECE,03-07-2025,Yes,57,Completed,Not Completed,Not Ready
+S0218,Student_218,GITAM,EEE,10-07-2025,Yes,86,Completed,Completed,Ready
+S0219,Student_219,JNTU,ECE,04-04-2025,Yes,50,Completed,Not Completed,Not Ready
+S0220,Student_220,ABC College,AI&DS,22-04-2025,Yes,61,Completed,Not Completed,Not Ready
+S0221,Student_221,SVEC,CSE,28-09-2025,Yes,66,Completed,Completed,Not Ready
+S0222,Student_222,SVEC,EEE,10-11-2025,Yes,77,Completed,Completed,Ready
+S0223,Student_223,XYZ Institute,CSE,23-07-2025,Yes,97,Completed,Completed,Ready
+S0224,Student_224,XYZ Institute,AI&ML,07-08-2025,Yes,60,Completed,Not Completed,Not Ready
+S0225,Student_225,ABC College,AI&ML,24-06-2025,Yes,96,Completed,Completed,Ready
+S0226,Student_226,XYZ Institute,IT,15-04-2025,Yes,63,Completed,Not Completed,Not Ready
+S0227,Student_227,VIT,CSE,21-05-2025,Yes,46,Not Completed,Not Completed,Not Ready
+S0228,Student_228,ABC College,CSE,30-09-2025,Yes,55,Completed,Not Completed,Not Ready
+S0229,Student_229,SVEC,CSE,05-07-2025,No,46,Not Completed,Not Completed,Not Ready
+S0230,Student_230,VIT,ME,28-11-2025,Yes,56,Completed,Not Completed,Not Ready
+S0231,Student_231,VIT,CSE,06-08-2025,No,58,Completed,Not Completed,Not Ready
+S0232,Student_232,SVEC,AI&ML,11-03-2025,Yes,79,Completed,Completed,Not Ready
+S0233,Student_233,VIT,ECE,28-12-2025,Yes,46,Not Completed,Not Completed,Not Ready
+S0234,Student_234,JNTU,IT,16-03-2025,Yes,50,Completed,Not Completed,Not Ready
+S0235,Student_235,JNTU,AI&ML,06-06-2025,Yes,63,Completed,Not Completed,Not Ready
+S0236,Student_236,XYZ Institute,CSE,26-08-2025,Yes,87,Completed,Completed,Ready
+S0237,Student_237,ABC College,CSE,26-12-2025,Yes,59,Completed,Not Completed,Not Ready
+S0238,Student_238,JNTU,AI&ML,29-09-2025,Yes,89,Completed,Completed,Not Ready
+S0239,Student_239,ABC College,AI&ML,22-04-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0240,Student_240,GITAM,IT,22-10-2025,Yes,88,Completed,Completed,Not Ready
+S0241,Student_241,JNTU,CSE,24-03-2025,No,90,Completed,Not Completed,Not Ready
+S0242,Student_242,VIT,ECE,03-12-2025,Yes,91,Completed,Completed,Ready
+S0243,Student_243,GITAM,CSE,20-09-2025,Yes,68,Completed,Completed,Not Ready
+S0244,Student_244,JNTU,Civil,08-08-2025,No,91,Completed,Not Completed,Not Ready
+S0245,Student_245,VIT,EEE,18-10-2025,No,60,Completed,Not Completed,Not Ready
+S0246,Student_246,GITAM,Civil,12-02-2025,Yes,50,Completed,Not Completed,Not Ready
+S0247,Student_247,GITAM,AI&ML,16-09-2025,Yes,76,Completed,Completed,Ready
+S0248,Student_248,SVEC,ME,03-12-2025,No,96,Completed,Not Completed,Not Ready
+S0249,Student_249,XYZ Institute,CSE,25-08-2025,Yes,53,Completed,Not Completed,Not Ready
+S0250,Student_250,JNTU,AI&DS,22-11-2025,Yes,78,Completed,Completed,Ready
+S0251,Student_251,GITAM,AI&DS,01-06-2025,Yes,45,Not Completed,Not Completed,Not Ready
+S0252,Student_252,VIT,ECE,24-04-2025,No,70,Completed,Not Completed,Not Ready
+S0253,Student_253,GITAM,Civil,02-04-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0254,Student_254,XYZ Institute,IT,01-05-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0255,Student_255,JNTU,CSE,08-10-2025,Yes,74,Completed,Completed,Not Ready
+S0256,Student_256,VIT,EEE,09-11-2025,Yes,80,Completed,Completed,Ready
+S0257,Student_257,VIT,ME,23-09-2025,No,70,Completed,Not Completed,Not Ready
+S0258,Student_258,JNTU,EEE,31-07-2025,Yes,88,Completed,Completed,Ready
+S0259,Student_259,SVEC,Civil,20-03-2025,Yes,94,Completed,Completed,Ready
+S0260,Student_260,GITAM,ME,10-12-2025,Yes,63,Completed,Not Completed,Not Ready
+S0261,Student_261,SVEC,EEE,04-06-2025,Yes,78,Completed,Completed,Ready
+S0262,Student_262,GITAM,AI&ML,19-02-2025,Yes,93,Completed,Completed,Ready
+S0263,Student_263,GITAM,ECE,19-08-2025,No,91,Completed,Not Completed,Not Ready
+S0264,Student_264,ABC College,Civil,18-05-2025,Yes,73,Completed,Completed,Not Ready
+S0265,Student_265,VIT,EEE,24-07-2025,Yes,51,Completed,Not Completed,Not Ready
+S0266,Student_266,ABC College,AI&DS,26-11-2025,Yes,94,Completed,Not Completed,Not Ready
+S0267,Student_267,XYZ Institute,EEE,29-09-2025,Yes,52,Completed,Not Completed,Not Ready
+S0268,Student_268,VIT,Civil,02-04-2025,Yes,67,Completed,Completed,Not Ready
+S0269,Student_269,VIT,IT,15-05-2025,Yes,60,Completed,Not Completed,Not Ready
+S0270,Student_270,VIT,ME,13-09-2025,Yes,93,Completed,Completed,Ready
+S0271,Student_271,SVEC,AI&ML,19-06-2025,Yes,66,Completed,Completed,Not Ready
+S0272,Student_272,SVEC,IT,24-10-2025,Yes,50,Completed,Not Completed,Not Ready
+S0273,Student_273,ABC College,AI&ML,12-04-2025,Yes,46,Not Completed,Not Completed,Not Ready
+S0274,Student_274,GITAM,AI&ML,28-07-2025,Yes,45,Not Completed,Not Completed,Not Ready
+S0275,Student_275,XYZ Institute,ECE,30-11-2025,Yes,49,Not Completed,Not Completed,Not Ready
+S0276,Student_276,SVEC,Civil,07-02-2025,Yes,62,Completed,Not Completed,Not Ready
+S0277,Student_277,JNTU,AI&DS,12-07-2025,Yes,88,Completed,Not Completed,Not Ready
+S0278,Student_278,XYZ Institute,Civil,29-01-2025,Yes,78,Completed,Completed,Ready
+S0279,Student_279,JNTU,Civil,26-09-2025,Yes,51,Completed,Not Completed,Not Ready
+S0280,Student_280,XYZ Institute,AI&DS,15-07-2025,Yes,84,Completed,Completed,Ready
+S0281,Student_281,JNTU,ME,21-10-2025,Yes,67,Completed,Completed,Not Ready
+S0282,Student_282,JNTU,IT,28-07-2025,Yes,83,Completed,Completed,Ready
+S0283,Student_283,XYZ Institute,ME,08-12-2025,No,60,Completed,Not Completed,Not Ready
+S0284,Student_284,VIT,EEE,17-10-2025,Yes,82,Completed,Completed,Ready
+S0285,Student_285,ABC College,CSE,04-02-2025,Yes,98,Completed,Not Completed,Not Ready
+S0286,Student_286,VIT,ME,22-04-2025,Yes,47,Not Completed,Not Completed,Not Ready
+S0287,Student_287,JNTU,ECE,13-07-2025,Yes,64,Completed,Not Completed,Not Ready
+S0288,Student_288,VIT,Civil,06-03-2025,No,89,Completed,Not Completed,Not Ready
+S0289,Student_289,VIT,EEE,10-09-2025,Yes,75,Completed,Completed,Ready
+S0290,Student_290,GITAM,CSE,09-06-2025,Yes,91,Completed,Completed,Ready
+S0291,Student_291,JNTU,EEE,20-04-2025,Yes,93,Completed,Not Completed,Not Ready
+S0292,Student_292,GITAM,AI&DS,03-08-2025,Yes,69,Completed,Completed,Not Ready
+S0293,Student_293,ABC College,EEE,05-09-2025,Yes,74,Completed,Completed,Not Ready
+S0294,Student_294,SVEC,CSE,16-12-2025,No,76,Completed,Not Completed,Not Ready
+S0295,Student_295,ABC College,ME,15-01-2025,Yes,86,Completed,Completed,Ready
+S0296,Student_296,SVEC,AI&ML,29-09-2025,No,87,Completed,Not Completed,Not Ready
+S0297,Student_297,GITAM,CSE,04-02-2025,Yes,83,Completed,Completed,Ready
+S0298,Student_298,SVEC,Civil,30-05-2025,No,78,Completed,Not Completed,Not Ready
+S0299,Student_299,VIT,CSE,26-06-2025,Yes,55,Completed,Not Completed,Not Ready
+S0300,Student_300,VIT,AI&DS,15-04-2025,Yes,74,Completed,Completed,Not Ready
+S0301,Student_301,ABC College,IT,09-10-2025,Yes,60,Completed,Not Completed,Not Ready
+S0302,Student_302,ABC College,ME,31-05-2025,Yes,92,Completed,Not Completed,Not Ready
+S0303,Student_303,XYZ Institute,ME,05-06-2025,Yes,65,Completed,Completed,Not Ready
+S0304,Student_304,ABC College,AI&ML,09-07-2025,Yes,63,Completed,Not Completed,Not Ready
+S0305,Student_305,XYZ Institute,Civil,20-11-2025,Yes,92,Completed,Completed,Ready
+S0306,Student_306,ABC College,ME,12-01-2025,Yes,97,Completed,Not Completed,Not Ready
+S0307,Student_307,XYZ Institute,AI&DS,25-12-2025,Yes,61,Completed,Not Completed,Not Ready
+S0308,Student_308,ABC College,Civil,07-08-2025,Yes,72,Completed,Completed,Not Ready
+S0309,Student_309,XYZ Institute,CSE,16-06-2025,No,97,Completed,Not Completed,Not Ready
+S0310,Student_310,XYZ Institute,EEE,26-02-2025,No,51,Completed,Not Completed,Not Ready
+S0311,Student_311,JNTU,ME,21-06-2025,Yes,51,Completed,Not Completed,Not Ready
+S0312,Student_312,JNTU,ECE,12-11-2025,Yes,67,Completed,Completed,Not Ready
+S0313,Student_313,SVEC,AI&DS,29-03-2025,Yes,53,Completed,Not Completed,Not Ready
+S0314,Student_314,JNTU,ME,18-10-2025,Yes,98,Completed,Completed,Ready
+S0315,Student_315,XYZ Institute,ME,01-11-2025,Yes,59,Completed,Not Completed,Not Ready
+S0316,Student_316,SVEC,EEE,15-02-2025,Yes,95,Completed,Completed,Not Ready
+S0317,Student_317,ABC College,IT,13-01-2025,No,60,Completed,Not Completed,Not Ready
+S0318,Student_318,GITAM,AI&ML,21-11-2025,Yes,95,Completed,Not Completed,Not Ready
+S0319,Student_319,XYZ Institute,ME,21-11-2025,Yes,96,Completed,Not Completed,Not Ready
+S0320,Student_320,GITAM,IT,15-09-2025,No,94,Completed,Not Completed,Not Ready
+S0321,Student_321,GITAM,IT,15-08-2025,Yes,91,Completed,Completed,Not Ready
+S0322,Student_322,GITAM,IT,15-08-2025,Yes,52,Completed,Not Completed,Not Ready
+S0323,Student_323,JNTU,AI&ML,15-03-2025,Yes,75,Completed,Completed,Ready
+S0324,Student_324,GITAM,AI&ML,16-10-2025,Yes,94,Completed,Completed,Not Ready
+S0325,Student_325,ABC College,AI&ML,21-04-2025,Yes,55,Completed,Not Completed,Not Ready
+S0326,Student_326,JNTU,AI&ML,07-01-2025,Yes,77,Completed,Completed,Not Ready
+S0327,Student_327,VIT,CSE,05-07-2025,Yes,71,Completed,Completed,Not Ready
+S0328,Student_328,ABC College,IT,10-11-2025,Yes,80,Completed,Not Completed,Not Ready
+S0329,Student_329,SVEC,ECE,09-03-2025,Yes,93,Completed,Completed,Not Ready
+S0330,Student_330,VIT,AI&ML,08-10-2025,Yes,54,Completed,Not Completed,Not Ready
+S0331,Student_331,GITAM,Civil,18-09-2025,No,83,Completed,Not Completed,Not Ready
+S0332,Student_332,GITAM,IT,13-11-2025,Yes,63,Completed,Not Completed,Not Ready
+S0333,Student_333,XYZ Institute,IT,03-10-2025,Yes,97,Completed,Completed,Not Ready
+S0334,Student_334,GITAM,ME,09-06-2025,Yes,73,Completed,Completed,Not Ready
+S0335,Student_335,GITAM,IT,01-09-2025,Yes,66,Completed,Completed,Not Ready
+S0336,Student_336,SVEC,ME,04-10-2025,Yes,64,Completed,Not Completed,Not Ready
+S0337,Student_337,VIT,EEE,24-04-2025,Yes,58,Completed,Not Completed,Not Ready
+S0338,Student_338,GITAM,ME,25-07-2025,Yes,60,Completed,Not Completed,Not Ready
+S0339,Student_339,GITAM,AI&DS,14-02-2025,Yes,63,Completed,Not Completed,Not Ready
+S0340,Student_340,XYZ Institute,AI&ML,17-11-2025,Yes,64,Completed,Not Completed,Not Ready
+S0341,Student_341,SVEC,ME,18-09-2025,No,80,Completed,Not Completed,Not Ready
+S0342,Student_342,JNTU,ECE,03-01-2025,Yes,97,Completed,Completed,Ready
+S0343,Student_343,GITAM,AI&DS,06-09-2025,Yes,62,Completed,Not Completed,Not Ready
+S0344,Student_344,XYZ Institute,EEE,22-05-2025,Yes,72,Completed,Completed,Not Ready
+S0345,Student_345,JNTU,CSE,06-12-2025,Yes,87,Completed,Completed,Ready
+S0346,Student_346,ABC College,IT,04-08-2025,Yes,49,Not Completed,Not Completed,Not Ready
+S0347,Student_347,JNTU,Civil,01-03-2025,Yes,78,Completed,Completed,Ready
+S0348,Student_348,ABC College,ME,11-02-2025,Yes,85,Completed,Not Completed,Not Ready
+S0349,Student_349,ABC College,Civil,22-09-2025,No,78,Completed,Not Completed,Not Ready
+S0350,Student_350,SVEC,AI&ML,02-01-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0351,Student_351,GITAM,EEE,06-08-2025,Yes,82,Completed,Completed,Ready
+S0352,Student_352,XYZ Institute,Civil,25-08-2025,Yes,82,Completed,Completed,Ready
+S0353,Student_353,ABC College,IT,01-05-2025,Yes,63,Completed,Not Completed,Not Ready
+S0354,Student_354,ABC College,ME,19-05-2025,Yes,75,Completed,Completed,Ready
+S0355,Student_355,ABC College,ME,08-04-2025,Yes,48,Not Completed,Not Completed,Not Ready
+S0356,Student_356,JNTU,AI&ML,20-08-2025,Yes,64,Completed,Not Completed,Not Ready
+S0357,Student_357,XYZ Institute,Civil,29-08-2025,No,51,Completed,Not Completed,Not Ready
+S0358,Student_358,XYZ Institute,CSE,31-03-2025,Yes,64,Completed,Not Completed,Not Ready
+S0359,Student_359,ABC College,CSE,17-03-2025,Yes,62,Completed,Not Completed,Not Ready
+S0360,Student_360,GITAM,IT,04-05-2025,Yes,98,Completed,Completed,Not Ready
+S0361,Student_361,XYZ Institute,Civil,15-05-2025,Yes,68,Completed,Completed,Not Ready
+S0362,Student_362,GITAM,IT,25-12-2025,Yes,52,Completed,Not Completed,Not Ready
+S0363,Student_363,ABC College,AI&DS,03-01-2025,Yes,98,Completed,Completed,Ready
+S0364,Student_364,JNTU,IT,11-12-2025,Yes,79,Completed,Completed,Ready
+S0365,Student_365,ABC College,AI&ML,22-12-2025,Yes,61,Completed,Not Completed,Not Ready
+S0366,Student_366,JNTU,CSE,07-03-2025,Yes,82,Completed,Completed,Ready
+S0367,Student_367,XYZ Institute,IT,06-06-2025,Yes,81,Completed,Completed,Ready
+S0368,Student_368,JNTU,IT,10-10-2025,Yes,55,Completed,Not Completed,Not Ready
+S0369,Student_369,ABC College,ME,13-09-2025,Yes,57,Completed,Not Completed,Not Ready
+S0370,Student_370,SVEC,AI&DS,01-02-2025,Yes,96,Completed,Completed,Not Ready
+S0371,Student_371,VIT,AI&DS,30-10-2025,Yes,84,Completed,Completed,Ready
+S0372,Student_372,SVEC,EEE,30-08-2025,Yes,81,Completed,Completed,Ready
+S0373,Student_373,VIT,ECE,24-05-2025,Yes,71,Completed,Completed,Not Ready
+S0374,Student_374,GITAM,AI&DS,14-06-2025,Yes,81,Completed,Completed,Ready
+S0375,Student_375,ABC College,Civil,02-07-2025,Yes,49,Not Completed,Not Completed,Not Ready
+S0376,Student_376,ABC College,AI&ML,16-10-2025,Yes,49,Not Completed,Not Completed,Not Ready
+S0377,Student_377,JNTU,AI&DS,15-09-2025,Yes,72,Completed,Completed,Not Ready
+S0378,Student_378,SVEC,EEE,28-05-2025,Yes,72,Completed,Completed,Not Ready
+S0379,Student_379,ABC College,EEE,21-04-2025,Yes,98,Completed,Completed,Ready
+S0380,Student_380,GITAM,ECE,07-01-2025,No,97,Completed,Not Completed,Not Ready
+S0381,Student_381,SVEC,IT,08-10-2025,Yes,68,Completed,Not Completed,Not Ready
+S0382,Student_382,JNTU,CSE,03-07-2025,Yes,63,Completed,Not Completed,Not Ready
+S0383,Student_383,ABC College,AI&ML,21-07-2025,No,73,Completed,Not Completed,Not Ready
+S0384,Student_384,ABC College,IT,15-06-2025,Yes,52,Completed,Not Completed,Not Ready
+S0385,Student_385,VIT,ECE,04-09-2025,No,47,Not Completed,Not Completed,Not Ready
+S0386,Student_386,VIT,EEE,12-09-2025,Yes,55,Completed,Not Completed,Not Ready
+S0387,Student_387,JNTU,IT,18-04-2025,Yes,69,Completed,Completed,Not Ready
+S0388,Student_388,JNTU,EEE,13-06-2025,Yes,87,Completed,Completed,Ready
+S0389,Student_389,XYZ Institute,IT,08-02-2025,Yes,98,Completed,Not Completed,Not Ready
+S0390,Student_390,GITAM,ME,02-06-2025,Yes,57,Completed,Not Completed,Not Ready
+S0391,Student_391,GITAM,ECE,17-08-2025,No,58,Completed,Not Completed,Not Ready
+S0392,Student_392,SVEC,IT,06-09-2025,Yes,91,Completed,Completed,Ready
+S0393,Student_393,SVEC,ME,09-02-2025,Yes,60,Completed,Not Completed,Not Ready
+S0394,Student_394,ABC College,AI&DS,15-07-2025,Yes,49,Not Completed,Not Completed,Not Ready
+S0395,Student_395,GITAM,ME,15-07-2025,Yes,81,Completed,Completed,Not Ready
+S0396,Student_396,ABC College,ECE,01-05-2025,Yes,61,Completed,Not Completed,Not Ready
+S0397,Student_397,VIT,AI&DS,10-12-2025,Yes,98,Completed,Not Completed,Not Ready
+S0398,Student_398,ABC College,EEE,17-03-2025,No,88,Completed,Not Completed,Not Ready
+S0399,Student_399,GITAM,Civil,30-05-2025,Yes,63,Completed,Not Completed,Not Ready
+S0400,Student_400,VIT,IT,12-05-2025,Yes,91,Completed,Completed,Not Ready
+S0401,Student_401,ABC College,ECE,13-08-2025,Yes,90,Completed,Completed,Not Ready
+S0402,Student_402,SVEC,EEE,19-02-2025,Yes,87,Completed,Not Completed,Not Ready
+S0403,Student_403,VIT,ME,22-03-2025,Yes,79,Completed,Completed,Not Ready
+S0404,Student_404,VIT,AI&ML,21-07-2025,Yes,70,Completed,Completed,Not Ready
+S0405,Student_405,XYZ Institute,CSE,20-12-2025,Yes,57,Completed,Not Completed,Not Ready
+S0406,Student_406,JNTU,ECE,13-09-2025,Yes,55,Completed,Not Completed,Not Ready
+S0407,Student_407,SVEC,EEE,04-05-2025,Yes,64,Completed,Not Completed,Not Ready
+S0408,Student_408,GITAM,CSE,13-03-2025,Yes,50,Completed,Not Completed,Not Ready
+S0409,Student_409,XYZ Institute,Civil,24-06-2025,Yes,68,Completed,Completed,Not Ready
+S0410,Student_410,VIT,ECE,07-12-2025,Yes,91,Completed,Completed,Not Ready
+S0411,Student_411,ABC College,AI&ML,17-10-2025,Yes,61,Completed,Not Completed,Not Ready
+S0412,Student_412,XYZ Institute,AI&DS,28-12-2025,No,88,Completed,Not Completed,Not Ready
+S0413,Student_413,JNTU,ME,04-10-2025,Yes,90,Completed,Completed,Ready
+S0414,Student_414,SVEC,EEE,21-08-2025,Yes,86,Completed,Not Completed,Not Ready
+S0415,Student_415,SVEC,ECE,18-08-2025,Yes,65,Completed,Completed,Not Ready
+S0416,Student_416,SVEC,AI&ML,30-03-2025,Yes,97,Completed,Completed,Ready
+S0417,Student_417,ABC College,EEE,25-01-2025,Yes,45,Not Completed,Not Completed,Not Ready
+S0418,Student_418,GITAM,EEE,23-03-2025,Yes,49,Not Completed,Not Completed,Not Ready
+S0419,Student_419,GITAM,EEE,04-08-2025,Yes,84,Completed,Completed,Ready
+S0420,Student_420,ABC College,AI&DS,25-01-2025,Yes,78,Completed,Completed,Ready
+S0421,Student_421,JNTU,AI&DS,14-08-2025,Yes,72,Completed,Completed,Not Ready
+S0422,Student_422,SVEC,ME,05-06-2025,Yes,62,Completed,Not Completed,Not Ready
+S0423,Student_423,JNTU,ME,24-12-2025,Yes,69,Completed,Completed,Not Ready
+S0424,Student_424,XYZ Institute,EEE,25-09-2025,Yes,65,Completed,Completed,Not Ready
+S0425,Student_425,JNTU,ECE,22-02-2025,Yes,87,Completed,Completed,Ready
+S0426,Student_426,GITAM,AI&DS,11-06-2025,Yes,90,Completed,Completed,Ready
+S0427,Student_427,VIT,ECE,28-08-2025,Yes,82,Completed,Completed,Not Ready
+S0428,Student_428,GITAM,ME,25-09-2025,Yes,46,Not Completed,Not Completed,Not Ready
+S0429,Student_429,GITAM,IT,14-11-2025,Yes,86,Completed,Completed,Ready
+S0430,Student_430,SVEC,CSE,16-10-2025,Yes,55,Completed,Not Completed,Not Ready
+S0431,Student_431,SVEC,ME,09-05-2025,Yes,54,Completed,Not Completed,Not Ready
+S0432,Student_432,VIT,EEE,20-04-2025,Yes,80,Completed,Completed,Ready
+S0433,Student_433,SVEC,IT,13-05-2025,Yes,84,Completed,Not Completed,Not Ready
+S0434,Student_434,ABC College,AI&ML,21-08-2025,Yes,76,Completed,Completed,Ready
+S0435,Student_435,XYZ Institute,Civil,17-05-2025,Yes,58,Completed,Not Completed,Not Ready
+S0436,Student_436,SVEC,EEE,04-06-2025,Yes,87,Completed,Not Completed,Not Ready
+S0437,Student_437,GITAM,ME,19-04-2025,Yes,55,Completed,Not Completed,Not Ready
+S0438,Student_438,VIT,AI&ML,17-08-2025,Yes,60,Completed,Not Completed,Not Ready
+S0439,Student_439,JNTU,EEE,10-06-2025,No,47,Not Completed,Not Completed,Not Ready
+S0440,Student_440,XYZ Institute,AI&ML,06-11-2025,Yes,55,Completed,Not Completed,Not Ready
+S0441,Student_441,JNTU,EEE,25-09-2025,Yes,54,Completed,Not Completed,Not Ready
+S0442,Student_442,XYZ Institute,AI&DS,30-05-2025,Yes,86,Completed,Not Completed,Not Ready
+S0443,Student_443,JNTU,ECE,25-01-2025,Yes,72,Completed,Completed,Not Ready
+S0444,Student_444,JNTU,ME,23-07-2025,Yes,90,Completed,Completed,Ready
+S0445,Student_445,VIT,AI&ML,03-12-2025,Yes,57,Completed,Not Completed,Not Ready
+S0446,Student_446,XYZ Institute,ME,14-01-2025,Yes,80,Completed,Completed,Not Ready
+S0447,Student_447,JNTU,IT,24-10-2025,No,53,Completed,Not Completed,Not Ready
+S0448,Student_448,SVEC,ECE,01-01-2025,Yes,84,Completed,Completed,Not Ready
+S0449,Student_449,GITAM,Civil,22-04-2025,Yes,71,Completed,Completed,Not Ready
+S0450,Student_450,JNTU,ME,07-03-2025,Yes,71,Completed,Completed,Not Ready
+S0451,Student_451,ABC College,ME,13-09-2025,Yes,53,Completed,Not Completed,Not Ready
+S0452,Student_452,VIT,EEE,10-12-2025,Yes,58,Completed,Not Completed,Not Ready
+S0453,Student_453,ABC College,CSE,14-07-2025,Yes,56,Completed,Not Completed,Not Ready
+S0454,Student_454,JNTU,EEE,13-04-2025,Yes,57,Completed,Not Completed,Not Ready
+S0455,Student_455,VIT,Civil,17-10-2025,No,81,Completed,Not Completed,Not Ready
+S0456,Student_456,GITAM,AI&DS,28-10-2025,Yes,68,Completed,Completed,Not Ready
+S0457,Student_457,GITAM,ECE,21-08-2025,Yes,96,Completed,Completed,Ready
+S0458,Student_458,VIT,Civil,13-02-2025,No,60,Completed,Not Completed,Not Ready
+S0459,Student_459,VIT,ME,17-11-2025,Yes,77,Completed,Completed,Not Ready
+S0460,Student_460,SVEC,ME,07-09-2025,No,92,Completed,Not Completed,Not Ready
+S0461,Student_461,XYZ Institute,AI&ML,15-11-2025,Yes,89,Completed,Not Completed,Not Ready
+S0462,Student_462,JNTU,ME,17-04-2025,No,48,Not Completed,Not Completed,Not Ready
+S0463,Student_463,ABC College,CSE,02-04-2025,Yes,62,Completed,Not Completed,Not Ready
+S0464,Student_464,SVEC,CSE,25-12-2025,Yes,71,Completed,Completed,Not Ready
+S0465,Student_465,GITAM,IT,01-03-2025,Yes,64,Completed,Not Completed,Not Ready
+S0466,Student_466,GITAM,AI&DS,03-12-2025,Yes,62,Completed,Not Completed,Not Ready
+S0467,Student_467,VIT,AI&ML,18-02-2025,Yes,78,Completed,Completed,Ready
+S0468,Student_468,VIT,EEE,12-11-2025,No,49,Not Completed,Not Completed,Not Ready
+S0469,Student_469,ABC College,IT,22-11-2025,Yes,57,Completed,Not Completed,Not Ready
+S0470,Student_470,JNTU,EEE,12-02-2025,Yes,94,Completed,Completed,Not Ready
+S0471,Student_471,XYZ Institute,EEE,02-05-2025,Yes,98,Completed,Completed,Ready
+S0472,Student_472,XYZ Institute,CSE,18-11-2025,Yes,60,Completed,Not Completed,Not Ready
+S0473,Student_473,SVEC,CSE,22-11-2025,Yes,95,Completed,Not Completed,Not Ready
+S0474,Student_474,JNTU,Civil,09-06-2025,Yes,74,Completed,Completed,Not Ready
+S0475,Student_475,SVEC,ME,24-01-2025,Yes,58,Completed,Not Completed,Not Ready
+S0476,Student_476,GITAM,ECE,20-01-2025,No,93,Completed,Not Completed,Not Ready
+S0477,Student_477,JNTU,EEE,25-06-2025,Yes,82,Completed,Completed,Ready
+S0478,Student_478,SVEC,AI&ML,23-02-2025,Yes,63,Completed,Not Completed,Not Ready
+S0479,Student_479,JNTU,AI&ML,05-07-2025,Yes,61,Completed,Not Completed,Not Ready
+S0480,Student_480,ABC College,CSE,23-01-2025,Yes,84,Completed,Completed,Ready
+S0481,Student_481,SVEC,IT,05-02-2025,Yes,97,Completed,Completed,Ready
+S0482,Student_482,GITAM,CSE,04-07-2025,Yes,68,Completed,Completed,Not Ready
+S0483,Student_483,JNTU,CSE,05-10-2025,Yes,95,Completed,Completed,Ready
+S0484,Student_484,SVEC,AI&ML,19-09-2025,Yes,84,Completed,Completed,Ready
+S0485,Student_485,JNTU,EEE,18-03-2025,Yes,88,Completed,Completed,Ready
+S0486,Student_486,ABC College,ME,08-04-2025,Yes,85,Completed,Completed,Ready
+S0487,Student_487,ABC College,Civil,10-08-2025,Yes,73,Completed,Completed,Not Ready
+S0488,Student_488,XYZ Institute,AI&ML,02-01-2025,No,47,Not Completed,Not Completed,Not Ready
+S0489,Student_489,SVEC,Civil,14-02-2025,Yes,51,Completed,Not Completed,Not Ready
+S0490,Student_490,ABC College,ME,19-07-2025,Yes,83,Completed,Completed,Not Ready
+S0491,Student_491,VIT,AI&DS,30-10-2025,No,82,Completed,Not Completed,Not Ready
+S0492,Student_492,ABC College,EEE,13-06-2025,No,87,Completed,Not Completed,Not Ready
+S0493,Student_493,XYZ Institute,EEE,28-04-2025,Yes,67,Completed,Not Completed,Not Ready
+S0494,Student_494,SVEC,ECE,29-06-2025,Yes,62,Completed,Not Completed,Not Ready
+S0495,Student_495,GITAM,AI&DS,11-08-2025,Yes,68,Completed,Completed,Not Ready
+S0496,Student_496,JNTU,EEE,13-03-2025,Yes,85,Completed,Completed,Ready
+S0497,Student_497,VIT,Civil,21-06-2025,Yes,93,Completed,Completed,Ready
+S0498,Student_498,JNTU,CSE,09-04-2025,Yes,96,Completed,Completed,Ready
+S0499,Student_499,GITAM,AI&DS,22-01-2025,No,79,Completed,Not Completed,Not Ready
+S0500,Student_500,GITAM,CSE,02-11-2025,Yes,73,Completed,Completed,Not Ready
